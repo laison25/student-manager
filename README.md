@@ -78,7 +78,7 @@ wp-content/plugins/
 
 ### 5.1. Menu Sinh viên trong Backend
 
-<img width="1820" height="813" alt="Ảnh chụp màn hình 2026-04-24 105406" src="https://github.com/user-attachments/assets/a5a2b2ac-5060-486a-abf4-5caff0c4401a" />
+<img width="1837" height="668" alt="image" src="https://github.com/user-attachments/assets/94f92b04-6c5f-491d-95fe-5314a81f5762" />
 
 
 ### 5.2. Form nhập thông tin sinh viên
@@ -88,7 +88,7 @@ wp-content/plugins/
 
 ### 5.3. Bảng danh sách sinh viên ngoài Frontend
 
-<img width="1906" height="968" alt="Ảnh chụp màn hình 2026-04-24 105620" src="https://github.com/user-attachments/assets/ffa32433-fca4-4b35-a4f4-1fc9edbb9fd2" />
+<img width="1855" height="995" alt="Ảnh chụp màn hình 2026-04-24 110556" src="https://github.com/user-attachments/assets/1ef0ea03-c622-4691-9155-f5c0b817ef2c" />
 
 
 ## 6. Link GitHub
