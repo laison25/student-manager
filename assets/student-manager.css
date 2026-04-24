@@ -1,0 +1,30 @@
+.sm-student-wrapper {
+    margin: 20px 0;
+    overflow-x: auto;
+}
+
+.sm-student-wrapper h2 {
+    margin-bottom: 15px;
+}
+
+.sm-student-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+}
+
+.sm-student-table th,
+.sm-student-table td {
+    border: 1px solid #ddd;
+    padding: 10px 12px;
+    text-align: left;
+}
+
+.sm-student-table th {
+    background: #f5f5f5;
+    font-weight: 700;
+}
+
+.sm-student-table tr:nth-child(even) {
+    background: #fafafa;
+}
